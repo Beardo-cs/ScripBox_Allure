@@ -1,0 +1,31 @@
+{
+  "enrollmentCode": "719972",
+  "device": {
+    "hardwareId": "123",
+    "isRooted": false,
+    "brand": "brand",
+    "androidApiLevel": "androidApiLevel",
+    "internalStorage": 128000,
+    "externalStorage": 256000,
+    "model": "model",
+    "cpuArchitecture": "cpuArchitecture",
+    "hardwareCodeName": "",
+    "firmwareBuildTime": "2024-02-22T07:28:54.716Z",
+    "firmwareType": "firmwareType",
+    "firmwareBuildTags": [
+      "tag1",
+      "tag2"
+    ],
+    "displaySizes": [
+      "1980x680"
+    ],
+    "firmwareBuildFingerPrint": "firmwareBuildFingerPrint",
+    "radioFirmwareVersion": "radioFirmwareVersion",
+    "socModel": "socModel",
+    "socManufacture": "socManufacture",
+    "partitionNameSystem": "partitionNameSystem",
+    "agentVersion": "agentVersion",
+    "upTime": 123,
+    "name": "string"
+  }
+}

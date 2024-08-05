@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="api-automation-framework-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../api-automation-framework-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

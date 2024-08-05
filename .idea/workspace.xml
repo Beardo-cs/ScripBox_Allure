@@ -5,12 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1dbc03c-44ea-4835-b5cb-a8a1f27e1922" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0b1174ea-f11e-4a39-b7a2-532e29c0113f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0f97a5df-83dc-48b9-9779-72eec6cc5150-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/44f81b50-f847-404a-b4b5-902702a82027-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7b31a457-5ddc-4207-be12-dfb8b6ec5d4d-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c84051ca-13a8-453d-967d-450781ddb714-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cb7561ef-cdaf-4be5-a31e-69c349646bd3-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d0e7bb5a-9f47-4585-9feb-562683fdabc2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/dc51047c-578e-4f04-b850-fbbe348267c3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e4444370-7ab1-4e59-87af-d04c563685cf-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/TestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.example.TestDemo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/Demo.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/restAssured-gradleTestSuite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/restAssured-gradleTestSuite/Demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/restAssured-gradleTestSuite/Demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -19,6 +74,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -30,13 +88,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RestfulServer.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG./Users/mahendiranmurugan/Desktop/A Trio Assignments/Trio_Allure_API/src/test/resources/testng.xml.executor": "Run",
+    "TestNG./Users/mahendiranmurugan/Downloads/ALlure TEST/src/test/resources/testng.xml.executor": "Run",
     "TestNG./Users/mahendiranmurugan/Downloads/API_Framework/src/test/resources/testng.xml.executor": "Run",
     "TestNG./Users/mahendiranmurugan/Downloads/RestAssured-maven-demo/src/test/resources/testng.xml.executor": "Run",
     "TestNG.TestDemo.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mahendiranmurugan/Downloads/ScripBox_AllureReport",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "/Users/mahendiranmurugan/Desktop/A Trio Assignments/Trio_Allure_API",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
@@ -44,7 +109,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/trio/jaxrs" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources/api_responses" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/example" />
     </key>
   </component>
   <component name="RunManager">

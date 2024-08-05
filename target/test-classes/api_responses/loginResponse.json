@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "employee": {
+    "id": "07fbb802-d002-4912-87b0-58b8b017a4a4",
+    "firstName": "Trio ",
+    "lastName": "Soft",
+    "email": "hello+1@trio.so",
+    "mobilePhone": "+971557561945",
+    "companyId": "160092ee-663c-454a-a0ed-f4e02c150db3",
+    "role": "OWNER",
+    "accountStatus": "ACTIVE",
+    "company": {
+      "id": "160092ee-663c-454a-a0ed-f4e02c150db3",
+      "name": "Hello Trio",
+      "trcAgreement": true,
+      "ownerId": "07fbb802-d002-4912-87b0-58b8b017a4a4",
+      "settings": {
+        "security": {
+          "mfaConfiguration": {
+            "isActive": false,
+            "services": [
+              {
+                "name": "email",
+                "status": "ENABLED",
+                "isActive": true
+              },
+              {
+                "name": "sms",
+                "status": "DISABLED",
+                "isActive": false
+              },
+              {
+                "name": "authenticator_app",
+                "status": "ENABLED",
+                "isActive": true
+              }
+            ]
+          },
+          "minPassLen": 8,
+          "complexity": {
+            "lowercase": false,
+            "uppercase": false,
+            "numeral": false,
+            "specialChar": false
+          },
+          "forcePass": {
+            "isActive": false,
+            "passExpDays": 365,
+            "reusePass": 10,
+            "resetPassBeforeExpDays": 5
+          },
+          "lockout": {
+            "isActive": false,
+            "loggingAttempts": 10
+          },
+          "passRecoveryEmail": true
+        }
+      }
+    },
+    "changePasswordStatus": false
+  },
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjA4NDU1MTQsImV4cCI6MTcyMDg0NjQxNCwic3ViIjoiMDdmYmI4MDItZDAwMi00OTEyLTg3YjAtNThiOGIwMTdhNGE0In0.10yp4fjcUV9CxHyyokG83YHY1O51K1Re5hsgk-7CIIg",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjA4NDU1MTQsImV4cCI6MTcyMDkzMTkxNCwianRpIjoiMTRlMDc1NGEtNzhjMS00ZjA5LTkzOTAtMWQ0MWY4YzczNGFjIn0.S7MRx9qc3RkrePsQlBXAbSVRrfkXfG41vB0nF4-AAPQ"
+}

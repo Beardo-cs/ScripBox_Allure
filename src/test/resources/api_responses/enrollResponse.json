@@ -1,0 +1,13 @@
+{
+  "created": true,
+  "auth": {
+    "mqttPassword": "zcaxl7eh2q"
+  },
+  "deviceId": "3b2bd0bd-3775-447a-abc3-612129424b10",
+  "hardwareId": "1234",
+  "company": {
+    "id": "160092ee-663c-454a-a0ed-f4e02c150db3",
+    "name": "Hello Trio",
+    "logoUrl": null
+  }
+}

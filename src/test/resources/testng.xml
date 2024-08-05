@@ -3,7 +3,7 @@
 <suite name="restAssured-gradleTestSuite">
     <test thread-count="1" name="Demo">
         <classes>
-            <class name="com.example.TestDemo"/>
+            <class name="com.trio.jaxrs.TestDemo"/>
         </classes>
     </test>
 </suite>
